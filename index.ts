@@ -120,36 +120,4 @@ else{
     console.log('Quit...')
 }
 
-// class Player{
-//     name:string;
-//     fuel:number = 100;
-//     constructor(name:string){
-//         this.name = name
-//     }   
-// }
-
-// class Opponent{
-//     name:string;
-//     fuel:number = 100;
-//     constructor(name:string){
-//         this.name = name
-//     }   
-// }
-
-// let player = await inquirer.prompt([{
-//      name:"name",
-//      type:"input",
-//      message:"Please enter your name: "
-// }])
-
-// let opponent = await inquirer.prompt([{
-//     name:"select",
-//     type:"list",
-//     message:"Select your Opponent",
-//     choices:["Skeleton","Alien","Zombie"]
-// }])
-
-// let p1 = new Player(player.name)
-// let o1 = new Opponent(opponent.name)
- 
 
